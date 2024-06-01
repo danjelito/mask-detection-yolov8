@@ -15,7 +15,7 @@ This project focuses on training a YOLOv8n model to detect whether someone is we
 2. **Data Preprocessing**: Resize images to 320x320 pixels for training.
 3. **Data Visualization**: Display images after resizing.
 4. **Model Training**: Train the YOLOv8n model using the resized dataset.
-5. **Inference**: Make predictions using the trained model.
+5. **Inference**: Make predictions using the trained model and display the result.
 
 ## Acknowledgments
 - The [Face Mask Dataset (YOLO Format)](https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format/data) on Kaggle.
